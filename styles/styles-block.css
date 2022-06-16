@@ -1,42 +1,5 @@
-@font-face {
-    font-family: "PT Sans";
-    font-style: normal;
-    font-weight: 400;
-    src: url("fonts/pt-sans-regular.woff2") format("woff2");
-    font-display: swap;
-}
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
 
-@font-face {
-    font-family: "PT Sans";
-    font-style: normal;
-    font-weight: 700;
-    src: url("fonts/pt-sans-bold.woff2") format("woff2");
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "PT Sans";
-    font-style: italic;
-    font-weight: 400;
-    src: url("fonts/pt-sans-italic.woff2") format("woff2");
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "PT Sans";
-    font-style: italic;
-    font-weight: 700;
-    src: url("fonts/pt-sans-bold-italic.woff2") format("woff2");
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "PT Sans Narrow";
-    font-style: italic;
-    font-weight: 700;
-    src: url("fonts/pt-sans-narrow-bold.woff2") format("woff2");
-    font-display: swap;
-}
 
 body {
     font-family: "PT Sans", sans-serif;
@@ -95,10 +58,9 @@ main-index{
 }
 
 .advantage{
-    font-size: 24px;
-    line-height: 28px;
-    color:#ffffff;
-   
+    Font-size: 24px;
+    Line-height: 28px;
+    color:#ffffff;   
 }
 
 .wrapper{
