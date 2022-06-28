@@ -22,10 +22,6 @@ body {
   background-color: #fbf7f4;
 }
 
-.main {
-  overflow: hidden;
-}
-
 .page-header {
   color: #000000;
   background-color: #ffffff;
@@ -206,7 +202,6 @@ body {
 }
 
 .search {
-  width: 1200 px;
   height: 417px;
   text-align: center;
 }
